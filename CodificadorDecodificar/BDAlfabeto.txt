@@ -1,0 +1,4 @@
+Default~abcdefghijklmnopqrstuvwxyz
+Default2~abcdefghijklmnopqrstuvwxyz 
+Mayuscula~ABCDEFGHIJKLMNOPQRSTUVWXYZ 
+Mixto~abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 

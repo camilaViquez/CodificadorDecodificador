@@ -1,0 +1,22 @@
+Frase de entrada   = hola mundo
+Tipo de Traducción [Codificar = 1 / Decodificar = 2] = 1
+Nombre de alfabeto = default
+Alfabeto = abcdefghijklmnopqrstuvwxyz
+
+Binario : 00111 01110 01011 00000*01100 10100 01101 00011 01110 
+PalabraClave : hcop miqss
+Telefonico : 42 63 53 21 * 61 82 62 31 63 
+Transposicion : aloh odnum
+Vigenere : ioma nuodp
+
+Frase de entrada   = swsw
+Tipo de Traducción [Codificar = 1 / Decodificar = 2] = 1
+Nombre de alfabeto = default
+Alfabeto = abcdefghijklmnopqrstuvwxyz
+
+Binario : 10010 10110 10010 10110 
+PalabraClave : skvl
+Telefonico : 74 91 74 91 
+Transposicion : wsws
+Vigenere : twtw
+
